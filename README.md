@@ -1,16 +1,50 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
+</p>
 
-<!--
-**Wani-Brito/wani-brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá olá pessoas, eu sou a Wanessa, sejam bem-vindos ao meu mundinho! 🚀</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Desenvolvedora em formação • Ciência da Computação 💻 • Projetos Web e IoT 🌐📱
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+- 🎓 Estudante de Ciência da Computação e Técnica em Informática - IFSP
+- 💻 Trabalhando em projetos Web (HTML, CSS, JavaScript).
+- 🔐 Interesses: Segurança da Informação, IoT, Machine Learning
+- ✨ Gosto de criar projetos práticos e funcionais
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌐 Contato
+- 📧 Email: wanessa.britosto@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/wanessa-santos-1047992ba)
+- 📌 [Portfólio Pessoal](https://wani-brito.github.io/site-cartorio/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wani-Brito&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wani-Brito&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wani-Brito&color=blue" alt="profile views"/>
+</p>
+
+<p align="center">✨ Sempre evoluindo e aprendendo! 🚀</p>
