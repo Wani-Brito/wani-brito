@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Olá olá pessoas, eu sou a Wanessa, sejam bem-vindos ao meu mundinho! 🚀</h1>
+<h1 align="center">Olá olá pessoas, eu sou a Wanessa, e esse é o meu mundinho dev! 🚀</h1>
 
 <p align="center">
 Desenvolvedora em formação • Ciência da Computação 💻 • Projetos Web e IoT 🌐📱
