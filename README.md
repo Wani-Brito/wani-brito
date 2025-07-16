@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f48fb1,ba68c8,7e57c2&height=200&section=header&text=Bem-vinda%20ao%20meu%20GitHub!%20%E2%9C%A8&fontColor=ffffff&fontSize=30&fontAlignY=35&desc=Sou%20Wanessa%20%7C%20Dev%20em%20formação%20%F0%9F%8C%90&descAlignY=60&descAlign=50"/>
 </p>
 
 <h1 align="center">Olá olá pessoas, eu sou a Wanessa, sejam bem-vindos ao meu mundinho! 🚀</h1>
