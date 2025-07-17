@@ -36,7 +36,6 @@ Desenvolvedora em formação • Ciência da Computação 💻 • Projetos Web 
 ### 🌐 Contato
 - 📧 Email: wanessa.britosto@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/wanessa-santos-1047992ba)
-- 📌 [Portfólio Pessoal](https://wani-brito.github.io/site-cartorio/)
 
 ---
 
